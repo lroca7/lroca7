@@ -9,6 +9,21 @@
 
 - 🏄 Fun fact **I love soccer and surf**
 </div>
-<div>
- imagen aqui
-</div>
+
+
+<a href="https://twitter.com/lizethrc7">
+<img align="right" height="auto" width="200" src="https://github.com/lroca7/lroca7/blob/main/batgirl.png"/>
+</a>
+
+
+## Language and Tools ⌨
+- Javascript
+- React
+- Vue
+- Html
+- CSS
+- PHP and Symfony
+
+
+
+
