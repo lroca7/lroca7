@@ -5,5 +5,5 @@
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ Fun fact **I love soccer and surf**
+- 🏄 Fun fact **I love soccer and surf**
 
