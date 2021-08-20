@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nuvu**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working with **React**
 
 - 🏄 Fun fact **I love soccer and surf**
 
