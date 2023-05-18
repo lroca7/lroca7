@@ -5,14 +5,15 @@
 <img align="right" height="auto" width="200" src="https://github.com/lroca7/lroca7/blob/main/batgirl.png"/>
 </a>
 
-- 🔭 I’m currently working on **Nuvu**
+- 🔭 I’m currently working on **Quantomm Tech**
 
-- 🌱 I’m currently working with **React**
+- 🌱 I’m currently working with **React and TypeScript**
 
 - 🏄 Fun fact **I love soccer and surf**
 
 ## Language and Tools ⌨
 - Javascript
+- TypeScript
 - React
 - Vue
 - Html
